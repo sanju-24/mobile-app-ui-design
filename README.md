@@ -18,7 +18,62 @@ People who want to book transport or event tickets quickly from their mobile dev
 (https://www.figma.com/design/ZYC8XEvsHJDvWlPKzDXNc4/TEP-01-sp2?node-id=0-1&t=nciIjescJ6nN2ap9-1)
 
 ---
-tep- 2.png
+## 📱 App Screens (Grid View)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Front Page</b><br>
+<img src="./front page.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Login</b><br>
+<img src="./tep - 2.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Forgot Password</b><br>
+<img src="./tep - 3.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Sign Up</b><br>
+<img src="./tep - 4.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Home Page</b><br>
+<img src="./home page 5.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Ticket Page</b><br>
+<img src="./Tep - 6.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Extra Screen 1</b><br>
+<img src="./tep - 7.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Map Page</b><br>
+<img src="./tep - 8.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Profile / Settings</b><br>
+<img src="./tep - 9.png" width="200">
+</div>
+
+<div style="flex: 1 1 200px; text-align: center;">
+<b>Extra Screen 2</b><br>
+<img src="./tep - 10.png" width="200">
+</div>
+
+</div>
+
 ---
 
 ## ✨ Key Features
