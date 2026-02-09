@@ -21,59 +21,17 @@ People who want to book transport or event tickets quickly from their mobile dev
 
 ## 📱 App Screens (Grid View)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1 1 200px; text-align: center;">
-Front Page<br>
-<img src="front page.PNG" alt="Front Page" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Login<br>
-<img src="tep-2.PNG" alt="Login" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Forgot Password<br>
-<img src="tep- 3.PNG" alt="Forgot Password" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Sign Up<br>
-<img src="tep - 4.PNG" alt="Sign Up" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Home Page<br>
-<img src="home page 5.PNG" alt="Home Page" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Ticket Page<br>
-<img src="Tep - 6.PNG" alt="Ticket Page" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Map Page<br>
-<img src="tep - 8.PNG" alt="Map Page" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Profile / Settings<br>
-<img src="tep - 9.PNG" alt="Profile / Settings" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Extra Screen 1<br>
-<img src="tep - 7.PNG" alt="Extra Screen 1" width="200">
-</div>
-
-<div style="flex: 1 1 200px; text-align: center;">
-Extra Screen 2<br>
-<img src="tep - 10.PNG" alt="Extra Screen 2" width="200">
-</div>
-
-</div>
+| Front Page | ![Front Page](front page.PNG) |
+| Login | ![Login](tep-2.PNG) |
+| Forgot Password | ![Forgot Password](tep-3.PNG) |
+| Sign Up | ![Sign Up](tep-4.PNG) |
+| Home Page | ![Home](home page 5.PNG) |
+| Ticket Page | ![Ticket](Tep - 6.PNG) |
+| Map Page | ![Map](tep - 8.PNG) |
+| Profile / Settings | ![Profile](tep - 9.PNG) |
+| Extra Screen 1 | ![Extra 1](tep - 7.PNG) |
+| Extra Screen 2 | ![Extra 2](tep - 10.PNG) |
 
 ---
 
