@@ -23,7 +23,7 @@ People who want to book transport or event tickets quickly from their mobile dev
 
 
 | Front Page | ![Front Page](front page.png) |
-| Login | ![Login](tep-2.PNG) |
+| Login | ![Login](tep- 2.png) |
 | Forgot Password | ![Forgot Password](tep-3.PNG) |
 | Sign Up | ![Sign Up](tep-4.PNG) |
 | Home Page | ![Home](home page 5.PNG) |
