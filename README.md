@@ -29,12 +29,12 @@ People who want to book transport or event tickets quickly from their mobile dev
 
 <div style="flex: 1 1 200px; text-align: center;">
 <b>Login</b><br>
-<img src="./tep - 2.png" width="200">
+<img src="./tep- 2.png" width="200">
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
 <b>Forgot Password</b><br>
-<img src="./tep - 3.png" width="200">
+<img src="./tep- 3.png" width="200">
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
