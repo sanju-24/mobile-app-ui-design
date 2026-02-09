@@ -30,7 +30,7 @@ Front Page<br>
 
 <div style="flex: 1 1 200px; text-align: center;">
 Login<br>
-<img src="tep- 2.PNG" alt="Login" width="200">
+<img src="tep-2.PNG" alt="Login" width="200">
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
