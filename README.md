@@ -22,7 +22,7 @@ People who want to book transport or event tickets quickly from their mobile dev
 ## 📱 App Screens (Grid View)
 
 
-| Front Page | ![Front Page](front page.PNG) |
+| Front Page | ![Front Page](front page.png) |
 | Login | ![Login](tep-2.PNG) |
 | Forgot Password | ![Forgot Password](tep-3.PNG) |
 | Sign Up | ![Sign Up](tep-4.PNG) |
