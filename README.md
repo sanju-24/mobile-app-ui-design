@@ -1,7 +1,7 @@
 # mobile-app-ui-design
 # 🎫 Ticket Booking Mobile App UI/UX Design
 
-## 📌 Project Overview
+## Project Overview
 This project is a mobile ticket booking application designed to make ticket purchasing simple, fast, and user-friendly. The design focuses on clean layout, easy navigation, and smooth user flow.
 
 ## 🎯 Target Users
