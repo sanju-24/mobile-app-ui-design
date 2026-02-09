@@ -18,21 +18,6 @@ People who want to book transport or event tickets quickly from their mobile dev
 [PASTE_YOUR_FIGMA_LINK_HERE](https://www.figma.com/design/ZYC8XEvsHJDvWlPKzDXNc4/TEP-01-sp2?node-id=0-1&t=nciIjescJ6nN2ap9-1)
 
 ---
-
-## 📱 App Screens (Grid View)
-
-
-| Front Page | ![Front Page](front page.png) |
-| Login | ![Login](tep- 2.png) |
-| Forgot Password | ![Forgot Password](tep-3.PNG) |
-| Sign Up | ![Sign Up](tep-4.PNG) |
-| Home Page | ![Home](home page 5.PNG) |
-| Ticket Page | ![Ticket](Tep - 6.PNG) |
-| Map Page | ![Map](tep - 8.PNG) |
-| Profile / Settings | ![Profile](tep - 9.PNG) |
-| Extra Screen 1 | ![Extra 1](tep - 7.PNG) |
-| Extra Screen 2 | ![Extra 2](tep - 10.PNG) |
-
 ---
 
 ## ✨ Key Features
