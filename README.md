@@ -53,7 +53,7 @@ People who want to book transport or event tickets quickly from their mobile dev
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
-<b>Extra Screen 1</b><br>
+<b>tep 7</b><br>
 <img src="./tep - 7.png" width="200">
 </div>
 
@@ -68,7 +68,7 @@ People who want to book transport or event tickets quickly from their mobile dev
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
-<b>Extra Screen 2</b><br>
+<b>tep 10</b><br>
 <img src="./tep - 10.png" width="200">
 </div>
 
