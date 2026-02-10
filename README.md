@@ -15,7 +15,7 @@ People who want to book transport or event tickets quickly from their mobile dev
 
 ## 🎨 Figma Design File
 🔗 View Full Interactive Design in Figma:  
-(https://www.figma.com/design/ZYC8XEvsHJDvWlPKzDXNc4/TEP-01-sp2?node-id=0-1&t=nciIjescJ6nN2ap9-1)
+https://www.figma.com/proto/ZYC8XEvsHJDvWlPKzDXNc4/TEP-01-sp2?node-id=4-2&p=f&t=lbPAKZt9Q3PZuX17-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
 
 ---
 ## 📱 App Screens (Grid View)
